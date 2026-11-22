@@ -2,3 +2,9 @@ dist/
 .DS_Store
 __pycache__/
 shots/
+CLAUDE.local.md
+.claude/settings.local.json
+.claude/install-state.json
+.claude/backups/
+.claude/logs/
+.codegraph/
