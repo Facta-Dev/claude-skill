@@ -1,0 +1,744 @@
+{
+  "communities": {
+    "0": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_portfolio_cosmic_hero",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_portfolio_cosmic_hero_accent_gradient",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_portfolio_cosmic_hero_background_video",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_portfolio_cosmic_hero_background_video_168",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_portfolio_cosmic_hero_bento_grid",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_portfolio_cosmic_hero_css_custom_properties_hsl_no_hsl_wrapper_tailwind_adds_it",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_portfolio_cosmic_hero_cta",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_portfolio_cosmic_hero_custom_animations_in_index_css",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_portfolio_cosmic_hero_dependencies",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_portfolio_cosmic_hero_fonts",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_portfolio_cosmic_hero_footer_bar",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_portfolio_cosmic_hero_forced_dark_theme_no_light_mode_toggle_body_gets_bg_bg_text_text_primary",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_portfolio_cosmic_hero_global_design_system",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_portfolio_cosmic_hero_gsap_entrance",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_portfolio_cosmic_hero_gsap_marquee",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_portfolio_cosmic_hero_header",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_portfolio_cosmic_hero_hero_content_centered_z_10",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_portfolio_cosmic_hero_layer_1_pinned_center_z_10",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_portfolio_cosmic_hero_layer_2_parallax_columns_z_20_absolute",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_portfolio_cosmic_hero_navbar_fixed_floats_at_top_center",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_portfolio_cosmic_hero_page_structure_index_tsx",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_portfolio_cosmic_hero_scroll_indicator",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_portfolio_cosmic_hero_section_1_loading_screen",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_portfolio_cosmic_hero_section_2_hero",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_portfolio_cosmic_hero_section_3_selected_works",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_portfolio_cosmic_hero_section_4_journal",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_portfolio_cosmic_hero_section_5_explorations_parallax_gallery",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_portfolio_cosmic_hero_section_6_stats",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_portfolio_cosmic_hero_section_7_contact_footer",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_portfolio_cosmic_hero_tailwind_custom_colors"
+    ],
+    "1": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_prompt_hero",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_prompt_hero_1a_custom_cursor_desktop_only",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_prompt_hero_1b_logo_top_left",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_prompt_hero_1c_caption_below_logo_left_side",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_prompt_hero_1d_header_navigation_top_right",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_prompt_hero_1e_product_info_bottom_right",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_prompt_hero_1f_view_button_bottom_right_initially_hidden",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_prompt_hero_1g_video_container",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_prompt_hero_1h_video_interaction_logic",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_prompt_hero_1i_white_overlay",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_prompt_hero_1j_footer",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_prompt_hero_asset_urls",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_prompt_hero_card_behavior",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_prompt_hero_container",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_prompt_hero_css_index_css",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_prompt_hero_grid_layout_algorithm",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_prompt_hero_inner_wrapper",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_prompt_hero_key_design_principles",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_prompt_hero_overview",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_prompt_hero_responsive_breakpoints",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_prompt_hero_root_container",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_prompt_hero_scroll_phases_raf_based_not_scroll_events",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_prompt_hero_section_1_hero_video_background_overlaid_ui",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_prompt_hero_section_2_black_panel_gallery",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_prompt_hero_spacer_height_calculation",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_prompt_hero_tech_stack"
+    ],
+    "2": [
+      "claude_skills_graphify_skill",
+      "claude_skills_graphify_skill_for_graphify_add_and_watch",
+      "claude_skills_graphify_skill_for_graphify_query",
+      "claude_skills_graphify_skill_for_the_commit_hook_and_native_claude_md_integration",
+      "claude_skills_graphify_skill_for_update_and_cluster_only",
+      "claude_skills_graphify_skill_graphify",
+      "claude_skills_graphify_skill_honesty_rules",
+      "claude_skills_graphify_skill_interpreter_guard_for_subcommands",
+      "claude_skills_graphify_skill_part_a_structural_extraction_for_code_files",
+      "claude_skills_graphify_skill_part_b_semantic_extraction_parallel_subagents",
+      "claude_skills_graphify_skill_part_c_merge_ast_semantic_into_final_extraction",
+      "claude_skills_graphify_skill_step_0_github_repos_and_multi_path_merge_only_if_a_url_or_several_paths",
+      "claude_skills_graphify_skill_step_1_ensure_graphify_is_installed",
+      "claude_skills_graphify_skill_step_2_5_video_and_audio_only_if_video_files_detected",
+      "claude_skills_graphify_skill_step_2_detect_files",
+      "claude_skills_graphify_skill_step_3_extract_entities_and_relationships",
+      "claude_skills_graphify_skill_step_4_5_graph_health_check_read_only_integrity_gate",
+      "claude_skills_graphify_skill_step_4_build_graph_cluster_analyze_generate_outputs",
+      "claude_skills_graphify_skill_step_5_label_communities",
+      "claude_skills_graphify_skill_step_6_generate_obsidian_vault_opt_in_html",
+      "claude_skills_graphify_skill_step_9_save_manifest_update_cost_tracker_clean_up_and_report",
+      "claude_skills_graphify_skill_steps_6b_8_wiki_neo4j_falkordb_svg_graphml_mcp_benchmark_only_on_their_flags",
+      "claude_skills_graphify_skill_usage",
+      "claude_skills_graphify_skill_what_graphify_is_for",
+      "claude_skills_graphify_skill_what_you_must_do_when_invoked"
+    ],
+    "3": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_ai_runtime",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_ai_runtime_1_header_desktop",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_ai_runtime_2_hero_center",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_ai_runtime_3_stats_footer_exact_4_metrics",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_ai_runtime_css_variables_exact",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_ai_runtime_cta",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_ai_runtime_entrance_animation",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_ai_runtime_exact_background_video_required",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_ai_runtime_fonts_exact",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_ai_runtime_headline",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_ai_runtime_implementation_stack",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_ai_runtime_layout_composition_one_viewport_3_vertical_regions",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_ai_runtime_logo",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_ai_runtime_mobile_720px_exact_behavior",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_ai_runtime_nav_pill_white",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_ai_runtime_shared_entrance_animation",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_ai_runtime_sign_in",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_ai_runtime_subhead_exact_copy",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_ai_runtime_trust_row_trusted_by_2000_enterprises",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_ai_runtime_visual_interaction_constraints_do_not_deviate"
+    ],
+    "4": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_neon_logic",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_neon_logic_1_scramblein_entrance_reveal_animation",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_neon_logic_2_scrambletext_hover_driven_scramble",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_neon_logic_animated_hamburger_squashhamburger",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_neon_logic_custom_svg_logo_synapsexlogo",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_neon_logic_custom_text_animation_components",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_neon_logic_dependencies",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_neon_logic_fonts_external_assets",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_neon_logic_footer",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_neon_logic_global_css_index_css",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_neon_logic_key_technical_details",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_neon_logic_navbar_fixed_z_50",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_neon_logic_page_sections_in_order",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_neon_logic_section_1_hero_full_viewport_height",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_neon_logic_section_2_cinematic_text_full_viewport_height",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_neon_logic_section_3_metrics_min_h_screen",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_neon_logic_section_4_technology_adaptive_intelligence_full_viewport_height",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_neon_logic_section_5_architecture_min_h_screen_pure_black_background_no_video",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_neon_logic_video_urls_cloudfront_use_exactly_these"
+    ],
+    "5": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_intelligent_operations",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_intelligent_operations_acceptance",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_intelligent_operations_assets_use_these_exact_urls",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_intelligent_operations_do_not",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_intelligent_operations_exact_recreation_prompt_novaai_landing_page",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_intelligent_operations_fonts",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_intelligent_operations_glass_material_system_exact_tokens",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_intelligent_operations_global_structure",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_intelligent_operations_interactions_motion_checklist",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_intelligent_operations_mid_spacer",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_intelligent_operations_navbar_fixed_z_50",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_intelligent_operations_page_identity",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_intelligent_operations_responsive_rules",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_intelligent_operations_reveal_animation_every_text_ui_block",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_intelligent_operations_scroll_scrubbed_video_background_exact_behavior",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_intelligent_operations_section_one_hero",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_intelligent_operations_section_two_capability"
+    ],
+    "6": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_skill",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_skill_1_read_the_brief_and_decide_don_t_interrogate",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_skill_1_upgrade_block_every_delivery_once_at_the_very_end",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_skill_2_one_in_context_nudge_optional_at_most_one_per_task",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_skill_2_study_the_closest_examples",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_skill_3_get_the_media",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_skill_4_write_the_spec",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_skill_5_build",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_skill_6_look_and_fix_mandatory",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_skill_7_deliver",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_skill_files",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_skill_motionsites_web_builder",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_skill_other_jobs_this_skill_handles",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_skill_rules",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_skill_sponsored_by_motionsites",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_skill_workflow"
+    ],
+    "7": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_email_landing_page",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_email_landing_page_global_background_video_fixed_behind_everything",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_email_landing_page_global_svg_noise_filters_two_both_id_c3_noise",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_email_landing_page_liquid_glass_utility_used_across_cards",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_email_landing_page_section_1_navbar",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_email_landing_page_section_2_hero",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_email_landing_page_section_3_macos_menu_bar_strip",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_email_landing_page_section_4_inbox_mockup",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_email_landing_page_section_5_featuretriage",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_email_landing_page_section_6_logocloud",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_email_landing_page_section_7_testimonials",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_email_landing_page_section_8_pricing",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_email_landing_page_section_9_finalcta",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_email_landing_page_shared_primitives",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_email_landing_page_stack_setup"
+    ],
+    "8": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_type_and_text_motion",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_type_and_text_motion_10_scroll_linked_word_by_word_or_char_by_char_opacity_reveal",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_type_and_text_motion_11_giant_display_type_as_image_ghost_word_behind_subject_edge_to_edge_wordmark_watermark_scattered_words",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_type_and_text_motion_12_geometric_svg_wordmark_assembly",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_type_and_text_motion_13_count_up_statistics_counter_preloader",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_type_and_text_motion_1_staggered_blur_rise_load_choreography_settle_zoom_media",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_type_and_text_motion_2_fail_safe_entrance_system_with_a_motion_vocabulary",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_type_and_text_motion_3_word_by_word_blur_in_headline",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_type_and_text_motion_4_split_text_headline_entrances_masked_line_word_pull_up_soft_word_rise_per_character_cascade",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_type_and_text_motion_5_serif_italic_accent_words_inside_a_headline",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_type_and_text_motion_6_gradient_clipped_text_static_metallic_and_animated_shine_sweep",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_type_and_text_motion_7_scramble_decode_text_entrance_hover",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_type_and_text_motion_8_typewriter_with_zero_reflow_caret_two_tone_text_and_a_depth_of_field_lead_in",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_type_and_text_motion_9_rotating_word_slot_zero_reflow",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_type_and_text_motion_type_text_motion"
+    ],
+    "9": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_stillmind",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_stillmind_background_video_layer",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_stillmind_bottom_stats_pushed_to_bottom_via_flex_1_spacer",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_stillmind_content_layer_z_index_2_flex_column_full_height",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_stillmind_dark_mode_for_deep_woods_3rd_video_index_2",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_stillmind_font",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_stillmind_hero_content_centered_below_nav",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_stillmind_liquid_glass_effect_css_class_liquid_glass",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_stillmind_mobile_menu_overlay_fixed_z_50",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_stillmind_navigation_top",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_stillmind_responsive_behavior",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_stillmind_section_container",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_stillmind_transparent_png_overlay_z_index_1",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_stillmind_video_switching_logic"
+    ],
+    "10": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_layout_and_ui",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_layout_and_ui_10_seamless_infinite_marquee_logos_image_strip_giant_text_with_edge_fade_mask",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_layout_and_ui_11_infinite_looping_card_slider_triple_clone_instant_re_centre",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_layout_and_ui_1_hero_composition_patterns",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_layout_and_ui_2_viewport_locked_single_frame_hero_height_based_design_units",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_layout_and_ui_3_floating_pill_navigation",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_layout_and_ui_4_expanding_glass_capsule_menu",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_layout_and_ui_5_mobile_menu_burger_morph_staggered_overlay_drawer_bottom_sheet",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_layout_and_ui_6_overlapping_avatar_trust_cluster_with_pill",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_layout_and_ui_7_selectable_chip_group_with_spring_check_and_auto_height_summary",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_layout_and_ui_8_in_page_product_ui_mockup_app_window_chrome",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_layout_and_ui_9_desktop_grid_that_becomes_a_mobile_scroll_snap_rail",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_layout_and_ui_layout_ui_patterns"
+    ],
+    "11": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_agent_wave",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_agent_wave_buttons_shared_liquid_glass_language",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_agent_wave_entrance_motion_exact",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_agent_wave_fonts_exact",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_agent_wave_header_3_column_grid",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_agent_wave_hero_bottom_centered_not_vertically_centered",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_agent_wave_image_asset_urls_exact_there_are_only_these",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_agent_wave_js_only_this",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_agent_wave_layer_stack_back_front",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_agent_wave_responsive_copy_these_breakpoints",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_agent_wave_stats_footer",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_agent_wave_tokens_default_1440px"
+    ],
+    "12": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_ai_workflow",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_ai_workflow_animation_details_all_css_no_framer_motion",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_ai_workflow_app_tsx_exact",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_ai_workflow_architecture",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_ai_workflow_boomerangvideobg_tsx_exact",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_ai_workflow_color_palette",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_ai_workflow_dependencies_package_json",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_ai_workflow_fonts_loaded_in_index_html",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_ai_workflow_key_layout_spacing_notes",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_ai_workflow_stack",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_ai_workflow_video_url_cloudfront"
+    ],
+    "13": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_digital_experiences",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_digital_experiences_blurtext_component",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_digital_experiences_custom_svg_icons_no_external_icon_library_needed_for_these",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_digital_experiences_dependencies",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_digital_experiences_fadingvideo_component",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_digital_experiences_fonts_google_fonts",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_digital_experiences_key_design_principles",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_digital_experiences_liquid_glass_css_in_index_css",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_digital_experiences_prompt",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_digital_experiences_section_1_hero",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_digital_experiences_section_2_capabilities"
+    ],
+    "14": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_mostar_guide",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_mostar_guide_1_remote_assets_the_only_allowed_sources",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_mostar_guide_2_document_head",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_mostar_guide_3_exact_dom_tree_and_source_order",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_mostar_guide_4_css_custom_properties_exact_root_block",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_mostar_guide_5_exact_positioning_of_every_element",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_mostar_guide_6_media_queries_exact",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_mostar_guide_7_javascript_animation_engine_exact_math",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_mostar_guide_8_infinite_slider_logic_exact_behavior",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_mostar_guide_9_resulting_choreography_acceptance_criteria",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_mostar_guide_prompt_recreate_mostar_city_cinematic_scroll_page_exactly"
+    ],
+    "15": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_video_and_media",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_video_and_media_1_cinematic_background_video_layer_autoplay_hls_off_screen_pause_settle_in",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_video_and_media_2_seamless_video_loop_with_raf_opacity_fades_manual_loop_optional_playlist",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_video_and_media_3_background_video_framing_art_direction",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_video_and_media_4_edge_blend_scrims_text_protection_over_video",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_video_and_media_5_progressive_bottom_blur_masked_backdrop_filter",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_video_and_media_6_cursor_scrubbed_video_delta_scrub_split_dual_video",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_video_and_media_7_scroll_scrubbed_video_with_canvas_frame_cache",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_video_and_media_8_boomerang_ping_pong_video_loop",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_video_and_media_9_crossfading_multi_video_scene_switcher_with_adaptive_text_tone",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_video_and_media_video_media"
+    ],
+    "16": [
+      "readme",
+      "readme_claude_ai_and_claude_desktop",
+      "readme_claude_code_manual",
+      "readme_claude_code_plugin",
+      "readme_install",
+      "readme_license",
+      "readme_motionsites_web_builder_a_free_claude_skill",
+      "readme_optional_let_claude_see_its_work",
+      "readme_try_it",
+      "readme_want_the_full_library",
+      "readme_what_s_inside"
+    ],
+    "17": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_network_hero",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_network_hero_background",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_network_hero_entrance_animations",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_network_hero_header",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_network_hero_hero_left",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_network_hero_hero_right_circles_visualization",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_network_hero_key_colors",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_network_hero_logo_ticker_bottom",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_network_hero_responsive_breakpoints",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_network_hero_technical_details"
+    ],
+    "18": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_craft",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_craft_colour",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_craft_composition",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_craft_copy",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_craft_craft_the_taste_rules",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_craft_extra_craft_details_values",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_craft_failure_modes_to_design_against",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_craft_motion",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_craft_surfaces_and_components",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_craft_typography"
+    ],
+    "19": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_depth_and_interaction",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_depth_and_interaction_1_depth_carousel_with_role_slots_and_background_colour_crossfade",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_depth_and_interaction_2_magnetic_hover_element_drifts_toward_the_cursor",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_depth_and_interaction_3_pointer_parallax_depth_layers",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_depth_and_interaction_4_cursor_following_spotlight_reveal_mask",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_depth_and_interaction_5_cursor_image_trail",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_depth_and_interaction_6_exclusion_blend_overlay_ui_custom_cursor",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_depth_and_interaction_7_orbit_rings_with_counter_rotating_avatars",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_depth_and_interaction_8_sand_dissolve_image_transition_svg_turbulence_auto_cycling_index_list",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_depth_and_interaction_depth_interaction"
+    ],
+    "20": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_surfaces_and_buttons",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_surfaces_and_buttons_1_liquid_glass_surface_gradient_hairline_rim",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_surfaces_and_buttons_2_frosted_glass_ui_kit_over_video_chips_accent_badge_numbered_panel_contact_card",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_surfaces_and_buttons_3_premium_button_finishes_liquid_metal_sweep_shine_halo_pill_jewel_pill",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_surfaces_and_buttons_4_text_roll_button_with_rotating_arrow_chip",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_surfaces_and_buttons_5_sliding_fill_buttons_hard_offset_shadow",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_surfaces_and_buttons_6_animated_gradient_border_ring_property_conic_spin_hover_ring",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_surfaces_and_buttons_7_media_card_hover_icon_to_label_pill_zoom_frosted_veil",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_surfaces_and_buttons_8_texture_overlays_film_grain_noise_inside_type_halftone_dot_grid",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_surfaces_and_buttons_surfaces_buttons"
+    ],
+    "21": [
+      "claude_skills_graphify_references_exports",
+      "claude_skills_graphify_references_exports_graphify_reference_extra_exports_and_benchmark",
+      "claude_skills_graphify_references_exports_step_6b_wiki_only_if_wiki_flag",
+      "claude_skills_graphify_references_exports_step_7_neo4j_export_only_if_neo4j_or_neo4j_push_flag",
+      "claude_skills_graphify_references_exports_step_7a_falkordb_export_only_if_falkordb_or_falkordb_push_flag",
+      "claude_skills_graphify_references_exports_step_7b_svg_export_only_if_svg_flag",
+      "claude_skills_graphify_references_exports_step_7c_graphml_export_only_if_graphml_flag",
+      "claude_skills_graphify_references_exports_step_7d_mcp_server_only_if_mcp_flag",
+      "claude_skills_graphify_references_exports_step_8_token_reduction_benchmark_only_if_total_words_5000"
+    ],
+    "22": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_scroll",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_scroll_1_viewport_triggered_staggered_reveal_directional_corner_decor",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_scroll_2_sticky_cinematic_stage_with_css_variable_choreography_scroll_windows_split_frame_parting_depth_of_field_tint",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_scroll_3_panel_slide_over_hero_viewport_scaled_scattered_gallery_blend_outro",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_scroll_4_pinned_heading_with_counter_drifting_parallax_columns_single_element_parallax",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_scroll_5_sticky_stacking_cards_that_scale_down",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_scroll_6_scroll_linked_opposing_marquee_rows",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_scroll_7_3d_tilted_text_crawl_on_scroll_spring_smoothed",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_scroll_scroll"
+    ],
+    "23": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_interactive_discovery",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_interactive_discovery_animations_premium_on_load",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_interactive_discovery_asset_urls_use_these_exactly",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_interactive_discovery_fonts",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_interactive_discovery_layout_structure",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_interactive_discovery_navigation_fixed_over_hero",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_interactive_discovery_responsiveness",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_interactive_discovery_the_cursor_spotlight_reveal_core_mechanic"
+    ],
+    "24": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_assets",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_assets_generating_media_when_you_have_a_generation_tool",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_assets_media_sourcing_generating_preparing",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_assets_order_of_preference",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_assets_placing_media",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_assets_preparing_video_for_the_web_ffmpeg",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_assets_what_makes_hero_media_work"
+    ],
+    "25": [
+      "claude_skills_graphify_references_query",
+      "claude_skills_graphify_references_query_for_graphify_explain",
+      "claude_skills_graphify_references_query_for_graphify_path",
+      "claude_skills_graphify_references_query_graphify_reference_query_path_explain",
+      "claude_skills_graphify_references_query_step_0_constrained_query_expansion_required_before_traversal",
+      "claude_skills_graphify_references_query_step_1_traversal"
+    ],
+    "26": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_modern_agency",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_modern_agency_global_styles_index_css",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_modern_agency_section_1_hero_full_viewport_height",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_modern_agency_section_2_about_white_background",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_modern_agency_section_3_case_studies_light_gray_background",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_modern_agency_technical_details"
+    ],
+    "27": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_spec_template",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_spec_template_add_on_modules",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_spec_template_consistency_pass_before_building",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_spec_template_precision_rules",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_spec_template_template",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_spec_template_the_build_spec"
+    ],
+    "28": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_review",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_review_fix_immediately_blocking",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_review_fix_loop",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_review_look_and_fix_review",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_review_score_1_10_on_each"
+    ],
+    "29": [
+      "claude_skills_graphify_references_add_watch",
+      "claude_skills_graphify_references_add_watch_for_graphify_add",
+      "claude_skills_graphify_references_add_watch_for_watch",
+      "claude_skills_graphify_references_add_watch_graphify_reference_add_a_url_and_watch_a_folder"
+    ],
+    "30": [
+      "claude_skills_graphify_references_hooks",
+      "claude_skills_graphify_references_hooks_for_git_commit_hook",
+      "claude_skills_graphify_references_hooks_for_native_claude_md_integration",
+      "claude_skills_graphify_references_hooks_graphify_reference_commit_hook_and_native_claude_md_integration"
+    ],
+    "31": [
+      "claude_skills_graphify_references_update",
+      "claude_skills_graphify_references_update_for_cluster_only",
+      "claude_skills_graphify_references_update_for_update_incremental_re_extraction",
+      "claude_skills_graphify_references_update_graphify_reference_incremental_update_and_cluster_only"
+    ],
+    "32": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_3d_and_webgl",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_3d_and_webgl_1_real_3d_model_hero_three_js_glb",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_3d_and_webgl_2_animated_shader_backdrop_swirl_pointer_chroma_blob_fluted_glass_grain",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_3d_and_webgl_3d_webgl"
+    ],
+    "33": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_index",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_index_how_to_choose_a_signature",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_index_technique_library_index",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_index_techniques"
+    ],
+    "34": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_scripts_shoot",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_scripts_shoot_rationale_1",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_scripts_shoot_with_chrome",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_scripts_shoot_with_playwright"
+    ],
+    "35": [
+      "claude_skills_graphify_references_github_and_merge",
+      "claude_skills_graphify_references_github_and_merge_graphify_reference_github_clone_and_cross_repo_merge",
+      "claude_skills_graphify_references_github_and_merge_step_0_clone_github_repo_s_only_if_a_github_url_was_given"
+    ],
+    "36": [
+      "claude_skills_graphify_references_transcribe",
+      "claude_skills_graphify_references_transcribe_graphify_reference_transcribe_video_and_audio",
+      "claude_skills_graphify_references_transcribe_step_2_5_transcribe_video_audio_files_only_if_video_files_detected"
+    ],
+    "37": [
+      "claude",
+      "claude_graphify"
+    ],
+    "38": [
+      "claude_claude",
+      "claude_claude_graphify"
+    ],
+    "39": [
+      "claude_skills_graphify_references_extraction_spec",
+      "claude_skills_graphify_references_extraction_spec_graphify_reference_extraction_subagent_prompt"
+    ],
+    "40": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_index",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_index_examples_index"
+    ],
+    "41": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_media_media",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_media_media_media_shelf"
+    ],
+    "42": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_builders",
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_builders_prompts_for_other_builders"
+    ],
+    "43": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_3d_character_studio"
+    ],
+    "44": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_3d_collectible_hero"
+    ],
+    "45": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_3d_jack_portfolio_hero"
+    ],
+    "46": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_aethera_hero"
+    ],
+    "47": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_aetheris_voyage_hero"
+    ],
+    "48": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_asme_hero"
+    ],
+    "49": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_bloom_ai_hero"
+    ],
+    "50": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_bold_studio"
+    ],
+    "51": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_contact_cybernetic"
+    ],
+    "52": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_creative_studio"
+    ],
+    "53": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_digital_epoch_hero"
+    ],
+    "54": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_equilibrium"
+    ],
+    "55": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_halo_usd_landing"
+    ],
+    "56": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_immersive_ocean"
+    ],
+    "57": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_innovation_landing"
+    ],
+    "58": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_intelligence_layer"
+    ],
+    "59": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_mindloop_landing"
+    ],
+    "60": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_neo_museum"
+    ],
+    "61": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_portal_hero"
+    ],
+    "62": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_prisma_landing"
+    ],
+    "63": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_prosthetics_hero"
+    ],
+    "64": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_retro_futurist"
+    ],
+    "65": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_securify_hero"
+    ],
+    "66": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_tech_forward"
+    ],
+    "67": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_velorah_hero"
+    ],
+    "68": [
+      "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_vex_ventures_hero"
+    ]
+  },
+  "cohesion": {
+    "0": 0.06666666666666667,
+    "1": 0.07692307692307693,
+    "2": 0.08,
+    "3": 0.1,
+    "4": 0.10526315789473684,
+    "5": 0.11764705882352941,
+    "6": 0.125,
+    "7": 0.13333333333333333,
+    "8": 0.13333333333333333,
+    "9": 0.14285714285714285,
+    "10": 0.15384615384615385,
+    "11": 0.16666666666666666,
+    "12": 0.18181818181818182,
+    "13": 0.18181818181818182,
+    "14": 0.18181818181818182,
+    "15": 0.18181818181818182,
+    "16": 0.18181818181818182,
+    "17": 0.2,
+    "18": 0.2,
+    "19": 0.2,
+    "20": 0.2,
+    "21": 0.2222222222222222,
+    "22": 0.2222222222222222,
+    "23": 0.25,
+    "24": 0.2857142857142857,
+    "25": 0.3333333333333333,
+    "26": 0.3333333333333333,
+    "27": 0.3333333333333333,
+    "28": 0.4,
+    "29": 0.5,
+    "30": 0.5,
+    "31": 0.5,
+    "32": 0.5,
+    "33": 0.5,
+    "34": 0.5,
+    "35": 0.6666666666666666,
+    "36": 0.6666666666666666,
+    "37": 1.0,
+    "38": 1.0,
+    "39": 1.0,
+    "40": 1.0,
+    "41": 1.0,
+    "42": 1.0,
+    "43": 1.0,
+    "44": 1.0,
+    "45": 1.0,
+    "46": 1.0,
+    "47": 1.0,
+    "48": 1.0,
+    "49": 1.0,
+    "50": 1.0,
+    "51": 1.0,
+    "52": 1.0,
+    "53": 1.0,
+    "54": 1.0,
+    "55": 1.0,
+    "56": 1.0,
+    "57": 1.0,
+    "58": 1.0,
+    "59": 1.0,
+    "60": 1.0,
+    "61": 1.0,
+    "62": 1.0,
+    "63": 1.0,
+    "64": 1.0,
+    "65": 1.0,
+    "66": 1.0,
+    "67": 1.0,
+    "68": 1.0
+  },
+  "gods": [
+    {
+      "id": "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_intelligent_operations_exact_recreation_prompt_novaai_landing_page",
+      "label": "Exact recreation prompt — NovaAI landing page",
+      "degree": 16
+    },
+    {
+      "id": "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_type_and_text_motion_type_text_motion",
+      "label": "Type & text motion",
+      "degree": 14
+    },
+    {
+      "id": "claude_skills_graphify_skill_what_you_must_do_when_invoked",
+      "label": "What You Must Do When Invoked",
+      "degree": 12
+    },
+    {
+      "id": "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_prompt_hero_section_1_hero_video_background_overlaid_ui",
+      "label": "SECTION 1: Hero (Video Background + Overlaid UI)",
+      "degree": 12
+    },
+    {
+      "id": "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_layout_and_ui_layout_ui_patterns",
+      "label": "Layout & UI patterns",
+      "degree": 12
+    },
+    {
+      "id": "claude_skills_graphify_skill_graphify",
+      "label": "/graphify",
+      "degree": 10
+    },
+    {
+      "id": "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_digital_experiences_prompt",
+      "label": "Prompt",
+      "degree": 10
+    },
+    {
+      "id": "plugins_motionsites_web_builder_skills_motionsites_web_builder_examples_mostar_guide_prompt_recreate_mostar_city_cinematic_scroll_page_exactly",
+      "label": "PROMPT — Recreate \"Mostar city\" cinematic scroll page exactly",
+      "degree": 10
+    },
+    {
+      "id": "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_techniques_video_and_media_video_media",
+      "label": "Video & media",
+      "degree": 10
+    },
+    {
+      "id": "plugins_motionsites_web_builder_skills_motionsites_web_builder_references_craft_craft_the_taste_rules",
+      "label": "Craft: the taste rules",
+      "degree": 9
+    }
+  ],
+  "surprises": [],
+  "questions": [
+    {
+      "type": "isolated_nodes",
+      "question": "What connects `Screenshot + QA a page so you can SEE what you built.  Usage:   python scripts/s`, `graphify`, `Usage` to the rest of the system?",
+      "why": "328 weakly-connected nodes found - possible documentation gaps or missing edges."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `portfolio-cosmic-hero.md` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.06666666666666667 - nodes in this community are weakly interconnected."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `SECTION 1: Hero (Video Background + Overlaid UI)` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.07692307692307693 - nodes in this community are weakly interconnected."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `What You Must Do When Invoked` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.08 - nodes in this community are weakly interconnected."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `ai-runtime.md` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.1 - nodes in this community are weakly interconnected."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `neon-logic.md` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.10526315789473684 - nodes in this community are weakly interconnected."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Exact recreation prompt — NovaAI landing page` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.11764705882352941 - nodes in this community are weakly interconnected."
+    }
+  ]
+}

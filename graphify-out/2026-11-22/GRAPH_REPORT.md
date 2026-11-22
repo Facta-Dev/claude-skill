@@ -1,15 +1,16 @@
-# Graph Report - .  (2026-11-22)
+# Graph Report - claude-skill  (2026-11-22)
 
 ## Corpus Check
-- cluster-only mode — file stats not available
+- 75 files · ~156,567 words
+- Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 441 nodes · 372 edges · 69 communities (60 shown, 9 thin omitted)
+- 443 nodes · 373 edges · 70 communities (60 shown, 10 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `5e538fbf`
+- Built from commit: `df0093d6`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -57,6 +58,7 @@
 - INDEX.md
 - MEDIA.md
 - builders.md
+- knowledge-sync.sh
 
 ## God Nodes (most connected - your core abstractions)
 1. `Exact recreation prompt — NovaAI landing page` - 16 edges
@@ -76,7 +78,7 @@
 ## Import Cycles
 - None detected.
 
-## Communities (69 total, 9 thin omitted)
+## Communities (70 total, 10 thin omitted)
 
 ### Community 0 - "portfolio-cosmic-hero.md"
 Cohesion: 0.07
@@ -215,15 +217,15 @@ Cohesion: 0.50
 Nodes (3): How to choose a signature, Technique library: index, Techniques
 
 ## Knowledge Gaps
-- **327 isolated node(s):** `graphify`, `Usage`, `What graphify is for`, `Step 0 - GitHub repos and multi-path merge (only if a URL or several paths)`, `Step 1 - Ensure graphify is installed` (+322 more)
+- **328 isolated node(s):** `knowledge-sync.sh script`, `graphify`, `Usage`, `What graphify is for`, `Step 0 - GitHub repos and multi-path merge (only if a URL or several paths)` (+323 more)
   These have ≤1 connection - possible missing edges or undocumented components.
-- **9 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
+- **10 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
-- **What connects `Screenshot + QA a page so you can SEE what you built.  Usage:   python scripts/s`, `graphify`, `Usage` to the rest of the system?**
-  _328 weakly-connected nodes found - possible documentation gaps or missing edges._
+- **What connects `knowledge-sync.sh script`, `Screenshot + QA a page so you can SEE what you built.  Usage:   python scripts/s`, `graphify` to the rest of the system?**
+  _329 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `portfolio-cosmic-hero.md` be split into smaller, more focused modules?**
   _Cohesion score 0.06666666666666667 - nodes in this community are weakly interconnected._
 - **Should `SECTION 1: Hero (Video Background + Overlaid UI)` be split into smaller, more focused modules?**

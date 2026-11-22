@@ -5,8 +5,8 @@
     "semantic_hash": ""
   },
   ".claude/settings.json": {
-    "mtime": 1795368534.6171057,
-    "ast_hash": "42c6267c370d3b09169b7ce31efce184",
+    "mtime": 1795371742.333375,
+    "ast_hash": "44091d9ee85df822b39ee4c783e584a1",
     "semantic_hash": ""
   },
   "plugins/motionsites-web-builder/.claude-plugin/plugin.json": {
@@ -70,8 +70,8 @@
     "semantic_hash": ""
   },
   "CLAUDE.md": {
-    "mtime": 1795368534.616644,
-    "ast_hash": "82efb97a359f5c7290bf2513d14686be",
+    "mtime": 1795370994.4677265,
+    "ast_hash": "9966d6dc412037aa92f0a6ef945d42f8",
     "semantic_hash": ""
   },
   "README.md": {
@@ -392,6 +392,21 @@
   "preview-media.jpg": {
     "mtime": 1794269698.7662709,
     "ast_hash": "af22ca32b1863c655d8dabc92df77bc0",
+    "semantic_hash": ""
+  },
+  ".claude/README.md": {
+    "mtime": 1795370994.4745588,
+    "ast_hash": "4fbaf09d5b6a4d5c365e8586336877db",
+    "semantic_hash": ""
+  },
+  ".claude/rules/memory-ops.md": {
+    "mtime": 1795372860.7734926,
+    "ast_hash": "18b2f668ad98bbaee7944dbb06501ab8",
+    "semantic_hash": ""
+  },
+  "scripts/hooks/knowledge-sync.sh": {
+    "mtime": 1795371354.4115536,
+    "ast_hash": "9ca00e28188fb9c5572dc760186d988a",
     "semantic_hash": ""
   }
 }
